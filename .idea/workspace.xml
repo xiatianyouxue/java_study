@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76bc7517-7d02-45a6-b0c0-290b3e3466f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/ArrayList/ArrayLIstRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/ArrayList/Demo1ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/ArrayList/Demo2ArrayEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/Demo1Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/Demo2Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/Random/Demo2Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/Random/Demo3Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/Random/Demo4RandomGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_12/String/Demo1StringCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09_24/Demo01Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09_24/Demo2getSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,12 +17,60 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day9_12/String/Demo1StringCreate.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day9_12/Random/Demo4RandomGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="342">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day09_24/Demo01Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day09_24/Demo2getSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day9_10/demo1Scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day9_11/Demo1Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -83,6 +122,8 @@
         <option value="$PROJECT_DIR$/src/day9_12/ArrayList/Demo2ArrayEach.java" />
         <option value="$PROJECT_DIR$/src/day9_12/ArrayList/ArrayLIstRandom.java" />
         <option value="$PROJECT_DIR$/src/day9_12/String/Demo1StringCreate.java" />
+        <option value="$PROJECT_DIR$/src/day09_24/Demo01Array.java" />
+        <option value="$PROJECT_DIR$/src/day09_24/Demo2getSum.java" />
       </list>
     </option>
   </component>
@@ -106,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -123,13 +165,24 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day9_10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day9_12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day09_24" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo1StringCreate">
+  <component name="RunManager" selected="Application.Demo2getSum">
     <configuration name="ArrayLIstRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day9_12.ArrayList.ArrayLIstRandom" />
       <module name="java" />
@@ -168,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day9_12.ArrayList.Demo1ArrayList" />
+    <configuration name="Demo01Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day09_24.Demo01Array" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day9_12.ArrayList.*" />
+          <option name="PATTERN" value="day09_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2ArrayEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day9_12.ArrayList.Demo2ArrayEach" />
+    <configuration name="Demo2getSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day09_24.Demo2getSum" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day9_12.ArrayList.*" />
+          <option name="PATTERN" value="day09_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,18 +275,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Demo4RandomGame" />
-      <item itemvalue="Application.Demo1ArrayList" />
-      <item itemvalue="Application.Demo2ArrayEach" />
       <item itemvalue="Application.ArrayLIstRandom" />
       <item itemvalue="Application.Demo1StringCreate" />
+      <item itemvalue="Application.Demo01Array" />
+      <item itemvalue="Application.Demo2getSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo2getSum" />
+        <item itemvalue="Application.Demo01Array" />
+        <item itemvalue="Application.Demo4RandomGame" />
         <item itemvalue="Application.Demo1StringCreate" />
         <item itemvalue="Application.ArrayLIstRandom" />
-        <item itemvalue="Application.Demo2ArrayEach" />
-        <item itemvalue="Application.Demo1ArrayList" />
-        <item itemvalue="Application.Demo4RandomGame" />
       </list>
     </recent_temporary>
   </component>
@@ -256,11 +309,12 @@
       <workItem from="1599830089919" duration="1333000" />
       <workItem from="1599866774785" duration="2225000" />
       <workItem from="1599895698759" duration="6224000" />
+      <workItem from="1600910485916" duration="869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23065000" />
+    <option name="totallyTimeSpent" value="23934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -275,7 +329,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18683812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18683812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,7 +338,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3065574" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26065573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39836067" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -294,7 +348,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" show_stripe_button="false" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -408,27 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="72" selection-start-line="2" selection-end-line="2" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9_11/Demo1Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9_10/demo1Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day9_10/DouDiZhu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -503,16 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day9_12/Random/Demo4RandomGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day9_12/ArrayList/Demo1ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -539,8 +562,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day9_12/String/Demo1StringCreate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="114">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9_12/Random/Demo4RandomGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9_11/Demo1Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day09_24/Demo01Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day9_10/demo1Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day09_24/Demo2getSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
